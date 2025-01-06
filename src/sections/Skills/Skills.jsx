@@ -22,7 +22,7 @@ function Skills() {
       <div className={styles.skillList}>
       <SkillList src={checkMarkIcon} skill='Flutter' />
       <SkillList src={checkMarkIcon} skill='Kotlin' />
-      <SkillList src={checkMarkIcon} skill='Vue' />
+      <SkillList src={checkMarkIcon} skill='Vite' />
       <SkillList src={checkMarkIcon} skill='Git' />
       <SkillList src={checkMarkIcon} skill='C/C++' />
       </div>
