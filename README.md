@@ -22,31 +22,6 @@ A modern and dynamic portfolio website showcasing my expertise as a **Web Develo
 
 ---
 
-## **Installation**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio-website
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
-
----
-
 ## **Usage**
 - Toggle between light and dark modes using the switch in the navigation bar.
 - Explore the projects, skills, and contact sections to learn more about me.
