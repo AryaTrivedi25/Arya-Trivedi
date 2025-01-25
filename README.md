@@ -16,7 +16,7 @@ A modern and dynamic portfolio website showcasing my expertise as a **Web Develo
 ## **Tech Stack**
 - **Frontend**: React.js, HTML, CSS, JavaScript
 - **State Management**: React Context API
-- **Styling**: CSS-in-JS or Tailwind CSS (based on your preference)
+- **Styling**: Tailwind CSS
 - **Persistence**: LocalStorage for theme selection
 - **Hosting**: Netlify
 
